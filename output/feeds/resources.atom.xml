@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Krishna's Blog - Resources</title><link href="/" rel="alternate"></link><link href="/feeds/resources.atom.xml" rel="self"></link><id>/</id><updated>2021-04-12T13:11:00+05:30</updated><entry><title>Python Resources for Beginners</title><link href="/python-resources-for-beginners.html" rel="alternate"></link><published>2021-04-12T13:11:00+05:30</published><updated>2021-04-12T13:11:00+05:30</updated><author><name>Krishna Chaitanya Reddy</name></author><id>tag:None,2021-04-12:/python-resources-for-beginners.html</id><summary type="html">&lt;p&gt;The following are some resources which I personally used myself when
+I was learning Python (which I am still learning :) ).  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="https://www.edx.org/xseries/mitx-computational-thinking-using-python"&gt;Computational Thinking using Python&lt;/a&gt; (this was my first course in python, took it when the cost was INR 3000)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://realpython.com/"&gt;Real Python&lt;/a&gt; (one of the best websites on Python that I …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;p&gt;The following are some resources which I personally used myself when
+I was learning Python (which I am still learning :) ).  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="https://www.edx.org/xseries/mitx-computational-thinking-using-python"&gt;Computational Thinking using Python&lt;/a&gt; (this was my first course in python, took it when the cost was INR 3000)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://realpython.com/"&gt;Real Python&lt;/a&gt; (one of the best websites on Python that I have come across)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://discord.gg/python"&gt;Python Official Discord&lt;/a&gt; (the OG discord server for Python)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.learnpython.org/"&gt;Learn Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://projecteuler.net/"&gt;Project Euler&lt;/a&gt; (for more algorithmic oriented practice)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/KrishnaChaitanya1/ML-Resources"&gt;My Github Repo&lt;/a&gt; (contains cheatsheets for Python and other ML packages)&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Resources"></category></entry></feed>
