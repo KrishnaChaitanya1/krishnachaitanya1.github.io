@@ -11,7 +11,7 @@ TIMEZONE = 'Asia/Calcutta'
 
 DEFAULT_LANG = 'English'
 
-THEME = "D:\\MindLab\\Blog\\pelican-themes\\mnmlist"
+THEME = "D:\\MindLab\\Blog\\pelican-themes\\MinimalXY"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -27,8 +27,8 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('LinkedIn', 'https://www.linkedin.com/in/krishnachaitanya21/'),
+          ('Github', 'https://github.com/KrishnaChaitanya1'),)
 
 DEFAULT_PAGINATION = 12
 
